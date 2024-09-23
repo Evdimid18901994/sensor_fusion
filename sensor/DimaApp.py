@@ -1,7 +1,8 @@
 import streamlit as st
-from Pages import Brosay, Andreich, Gusmanych, Valentinich, Dima
-
 from streamlit_navigation_bar import st_navbar
+from Pages import Brosay, Andreich, Gusmanych, Valentinich, Dima
+import streamlit_navigation_bar
+
 
 
 st.set_page_config(initial_sidebar_state="collapsed")
