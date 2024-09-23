@@ -1,5 +1,5 @@
 import streamlit as st
-from sensor.Pages import Brosay, Andreich, Gusmanych, Valentinich, Dima
+from Pages import Brosay, Andreich, Gusmanych, Valentinich, Dima
 
 from streamlit_navigation_bar import st_navbar
 
