@@ -1,7 +1,6 @@
 import streamlit as st
 from streamlit_navigation_bar import st_navbar
 from Pages import Brosay, Andreich, Gusmanych, Valentinich, Dima
-import streamlit_navigation_bar
 
 
 
