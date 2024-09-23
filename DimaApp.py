@@ -1,6 +1,5 @@
 import streamlit as st
-from ultralytics import YOLO
-from Pages import Andreich, Brosay, Dima, Gusmanych, Valentinich
+from sensor.Pages import Brosay, Andreich, Gusmanych, Valentinich, Dima
 
 from streamlit_navigation_bar import st_navbar
 
